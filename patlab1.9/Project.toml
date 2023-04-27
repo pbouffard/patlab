@@ -1,0 +1,9 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Infiltrator = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+PkgOnlineHelp = "021381c1-d00a-4861-ba2b-4d077ab1b5cd"
+ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
